@@ -69,7 +69,7 @@
 				</div>
 				<!-- EDIT: education line 1 -->
 				<div class="col-lg-3">
-					<p>School Certificate Cambridge<br/>
+					<p><b>School Certificate Cambridge</b><br/>
 						New Eton College<br>
             1998 &agrave; 2002
 						<!--<br/><i>Extra info here</i>-->
@@ -177,8 +177,8 @@
 					<h5>LOISIRS</h5>
 				</div>
 				<!-- EDIT: work line 1 -->
-				<div class="col-lg-6">
-					<p class="tight"><t>Billard</t><br/>
+				<div class="col-lg-4">
+					<p>Billard<br/>
 						Musique<br/>
             Jeux vid&eacute;o<br/>
             Billard<br/>
@@ -226,3 +226,4 @@
 	</div><!--/ #footer -->
 
 </html>
+<?php
